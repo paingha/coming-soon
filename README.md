@@ -10,3 +10,7 @@
 
 > Git clone https://github.com/paingha/coming-soon.git
 > Point your web browser to the directory where the files were cloned to
+
+## Demo
+
+> Check out the demo here https://paingha.github.io/coming-soon/
